@@ -8,7 +8,7 @@ feeds. There is currently no documentation aside from the sample usage.
 
 COPYLEFT NOTICE
 ---------------
-Copyright 2016 David Lowry-Duda
+Copyright 2016-2017 David Lowry-Duda
 
 Based on rss2producer, 2014.
 rss2producer creator: nathan-osman
